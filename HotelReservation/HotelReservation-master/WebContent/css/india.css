@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+html
+{
+	min-height:100%;
+}
+
+body
+{
+	backgroung-color: grey;
+	background-image: url(../image/in.jpg);
+	backgroung-repeat:no-repeat;
+	background-size:cover;
+}
+.bottom-right {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.alert {
+  border: 2px white;
+  background: skyblue;
+  font-weight: bold;
+  padding: 1px;
+
+}

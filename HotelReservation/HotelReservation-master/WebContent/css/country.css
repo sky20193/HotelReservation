@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+html
+{
+	min-height:100%;
+}
+
+body
+{
+	backgroung-color: grey;
+	background-image: url(../image/country.jpg);
+	backgroung-repeat:no-repeat;
+	background-size:cover;
+}
